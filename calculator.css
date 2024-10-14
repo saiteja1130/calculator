@@ -52,3 +52,14 @@ body{
     padding: 5px;
     margin-top: 10px;
 }
+@media only screen and (max-width:600px) {
+    .cal{
+        width: 80%;
+        padding: 8px;
+        margin-top: 80px;
+    }
+    #switch{
+        margin-top: 20px;
+        width: 50%;
+    }
+}
